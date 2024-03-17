@@ -171,9 +171,6 @@ body {
   display: none;
 }
 
-.composition {
-  margin-bottom: 180px;
-}
 .composition__title {
   text-align: center;
 }
@@ -265,7 +262,7 @@ body {
 } */
 
 .audio__inner {
-  min-height: 220vh;
+  min-height: 240vh;
   display: flex;
   justify-content: center;
   align-items: flex-end;
